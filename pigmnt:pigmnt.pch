@@ -1,0 +1,15 @@
+//
+//  findab*tch:findab*tch.pch
+//  Find A B*tch
+//
+//  Created by Yoseph Radding on 1/16/15.
+//  Copyright (c) 2015 Yoseph Radding. All rights reserved.
+//
+
+#ifndef Find_A_B_tch_findab_tch_findab_tch_pch
+#define Find_A_B_tch_findab_tch_findab_tch_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
